@@ -1,6 +1,6 @@
 function Teams() {
     return (
-      <div className="App">
+      <div>
         Teams Page
       </div>
     );
