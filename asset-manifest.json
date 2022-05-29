@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hierarchy-tree-ui/static/css/main.66303324.css",
+    "main.js": "/hierarchy-tree-ui/static/js/main.922dd085.js",
+    "index.html": "/hierarchy-tree-ui/index.html",
+    "main.66303324.css.map": "/hierarchy-tree-ui/static/css/main.66303324.css.map",
+    "main.922dd085.js.map": "/hierarchy-tree-ui/static/js/main.922dd085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66303324.css",
+    "static/js/main.922dd085.js"
+  ]
+}
