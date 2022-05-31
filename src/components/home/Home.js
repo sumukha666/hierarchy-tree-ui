@@ -1,9 +1,12 @@
+import { useSelector } from "react-redux";
 function Home() {
-    return (
-      <div>
-        Home Page
-      </div>
-    );
-  }
-  
-  export default Home;
+  const departments = useSelector((state) => state.department.departmentList);
+
+  return (
+    <>
+      <div>CEO</div>
+    </>
+  );
+}
+
+export default Home;
