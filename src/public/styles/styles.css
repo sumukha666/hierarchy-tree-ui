@@ -5,3 +5,31 @@
   cursor: pointer;
   font-size: 0.9rem;
 }
+
+.mr-l-1 {
+  margin-left: 1rem;
+}
+
+.mr-l-2 {
+  margin-left: 2rem;
+}
+
+.mr-l-3 {
+  margin-left: 3rem;
+}
+
+.mr-l-4 {
+  margin-left: 4rem;
+}
+
+.dsp-flex {
+  display: flex;
+}
+
+.dsp-column {
+  flex-direction: column;
+}
+
+.mr-l-0_5 {
+  margin-left: 0.5rem;
+}
