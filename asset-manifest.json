@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hierarchy-tree-ui/static/css/main.bf0abb56.css",
-    "main.js": "/hierarchy-tree-ui/static/js/main.07a23163.js",
+    "main.css": "/hierarchy-tree-ui/static/css/main.244ea0dc.css",
+    "main.js": "/hierarchy-tree-ui/static/js/main.c3bbbe39.js",
     "index.html": "/hierarchy-tree-ui/index.html",
-    "main.bf0abb56.css.map": "/hierarchy-tree-ui/static/css/main.bf0abb56.css.map",
-    "main.07a23163.js.map": "/hierarchy-tree-ui/static/js/main.07a23163.js.map"
+    "main.244ea0dc.css.map": "/hierarchy-tree-ui/static/css/main.244ea0dc.css.map",
+    "main.c3bbbe39.js.map": "/hierarchy-tree-ui/static/js/main.c3bbbe39.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf0abb56.css",
-    "static/js/main.07a23163.js"
+    "static/css/main.244ea0dc.css",
+    "static/js/main.c3bbbe39.js"
   ]
 }
